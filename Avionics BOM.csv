@@ -1,0 +1,11 @@
+"Id";"Designator";"Package";"Quantity";"Designation";"Supplier and ref";
+1;"REF**";"PinHeader_1x04_P1.00mm_Vertical";1;"PinHeader_1x04_P1.00mm_Vertical";;;
+2;"REF**";"TerminalBlock_MetzConnect_360272_1x01_Horizontal_ScrewM2.6";1;"TerminalBlock_MetzConnect_360272_1x01_Horizontal_ScrewM2.6";;;
+3;"U2";"InvenSense_QFN-24_4x4mm_P0.5mm";1;"MPU-6000";;;
+4;"U1";"LQFP-48_7x7mm_P0.5mm";1;"STM32L151CCTx";;;
+5;"PressureSensor1";"LGA-8_3x5mm_P1.25mm";1;"MS5607-02BA";;;
+6;"C-Ceramic2,C-Ceramic1";"C_0805_2012Metric_Pad1.15x1.40mm_HandSolder";2;"100nF";;;
+7;"C-Aluminum1";"CP_Elec_3x5.3";1;"10uF";;;
+8;"C6";"C_0805_2012Metric_Pad1.15x1.40mm_HandSolder";1;"2.2nF";;;
+9;"C5,C4";"C_0805_2012Metric_Pad1.15x1.40mm_HandSolder";2;"0.1uF";;;
+10;"Accelerometer1";"LGA-16_3x3mm_P0.5mm_LayoutBorder3x5y";1;"LIS331HH";;;
